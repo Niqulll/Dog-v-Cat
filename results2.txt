@@ -1,0 +1,11 @@
+
+item_tfms=[RandomResizedCrop(192, min_scale=0.3)]
+
+epoch     train_loss  valid_loss  error_rate  time
+0         1.242646    0.302900    0.118644    03:11
+epoch     train_loss  valid_loss  error_rate  time
+0         0.403302    0.140543    0.033898    03:16
+1         0.311698    0.261460    0.067797    03:12
+2         0.277557    0.205515    0.067797    03:08
+This is a: dog.
+Probability: 0.0006

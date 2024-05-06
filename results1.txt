@@ -1,0 +1,10 @@
+Resize(192, method=squish)
+
+epoch     train_loss  valid_loss  error_rate  time
+0         1.325691    0.245095    0.101695    03:04     
+epoch     train_loss  valid_loss  error_rate  time    
+0         0.325209    0.126775    0.050847    03:08     
+1         0.234430    0.068428    0.000000    03:07     
+2         0.220687    0.044992    0.016949    03:08     
+This is a: dog.
+Probability: 0.0056
